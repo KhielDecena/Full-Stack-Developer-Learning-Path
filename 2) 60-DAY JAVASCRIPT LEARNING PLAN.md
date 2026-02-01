@@ -1,5 +1,3 @@
----
-
 ## 🗓️ **60-DAY JAVASCRIPT LEARNING PLAN**
 
 ⏱️ *1–2 hours per day*
